@@ -52,7 +52,7 @@ interests: [Backend Development, Generative AI]
 </td>
 <td align="center" width="50%">
 
-**AI / Cloud**
+**Cloud**
 
 <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,github" />
 
