@@ -71,7 +71,7 @@ interests: [Backend Development, Generative AI]
 ## Featured Projects
 
 ### 🧾 BillMaster
-[![Visit](https://img.shields.io/badge/Visit-FFA116?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://github.com/adityaa2404](https://bill-master-opal.vercel.app/))
+[![Visit](https://img.shields.io/badge/Visit-FFA116?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://bill-master-opal.vercel.app/))
 
 **Stack:** Node.js · Express · MongoDB · React · Redux Toolkit · TailwindCSS
 
