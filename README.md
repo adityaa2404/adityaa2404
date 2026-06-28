@@ -20,8 +20,7 @@
 name:      Aditya Potdar
 education: B.E. Electronics & Computer Engineering @ PICT, Pune
 location:  Pune, India
-interests: [Backend Development, Generative AI, System Design]
-currently: Building AI-powered tools & solving DSA problems
+interests: [Backend Development, Generative AI]
 ```
 
 <img src="./assets/divider.svg" width="100%">
