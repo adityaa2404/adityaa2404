@@ -2,26 +2,32 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,4,19,24&height=180&section=header&text=Aditya%20Potdar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/adityapotdar24)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/adityaapotdar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:aditya.inv10@gmail.com)
+**Backend Developer · GenAI Enthusiast**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,4,19,24" width="100%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityapotdar24)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adityaapotdar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.inv10@gmail.com)
 
 </div>
 
-## About Me
+<!-- Divider -->
+<img src="./assets/divider.svg" width="100%">
+
+<!-- About -->
+<img src="./assets/about.svg">
 
 ```yaml
 name:      Aditya Potdar
 education: B.E. Electronics & Computer Engineering @ PICT, Pune
 location:  Pune, India
-interests: [Backend Development, Generative AI]
+interests: [Backend Development, Generative AI, System Design]
+currently: Building AI-powered tools & solving DSA problems
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,4,19,24" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## Tech Stack
+<!-- Tech Stack -->
+<img src="./assets/techstack.svg">
 
 <div align="center">
 
@@ -52,7 +58,7 @@ interests: [Backend Development, Generative AI]
 </td>
 <td align="center" width="50%">
 
-**Cloud**
+**Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,github" />
 
@@ -60,49 +66,69 @@ interests: [Backend Development, Generative AI]
 </tr>
 </table>
 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" />&nbsp;
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" />&nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,4,19,24" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## Featured Projects
+<!-- Projects -->
+<img src="./assets/projects.svg">
 
-### 🧾 BillMaster
-[![Visit](https://img.shields.io/badge/Visit-FFA116?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bill-master-opal.vercel.app/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Stack:** Node.js · Express · MongoDB · React · Redux Toolkit · TailwindCSS
+### Algo Lens
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaa2404/algo-lens)
 
-- Full-stack billing and estimation platform for electricians built on the MERN stack
-- Modular MVC backend with REST APIs; responsive UI with live editing and synchronized bill state
+**Chrome Extension · Gemini API · JavaScript**
 
----
+AI-powered code review for your LeetCode workflow. Click Analyze and get instant Gemini-powered feedback — complexity breakdown, edge cases, pattern tags, and an optimized rewrite. Your API key stays in your browser. No servers, no tracking.
 
-### 🤖 LawBuddy AI
-[![Visit](https://img.shields.io/badge/Visit-FFA116?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hack2-skill-three.vercel.app/)
+</td>
+<td width="50%" valign="top">
 
-**Stack:** FastAPI · Vertex AI (Gemini) · Pinecone · Google Document AI · PyMuPDF · Google Cloud
+### Legal Assist
+[![Live](https://img.shields.io/badge/Live-FFA116?style=for-the-badge&logo=google-chrome&logoColor=white)](https://legal-assist-neon.vercel.app/)
 
-- Engineered an AI legal assistant using RAG for automated analysis of scanned and digital legal PDFs
-- Implemented OCR via Google Document AI and structured parsing via PyMuPDF
-- Delivered clause interpretation, risk detection, summarization, and interactive legal Q&A via Gemini
-- Deployed scalable FastAPI backend on Google Cloud with Axios-integrated frontend
+**FastAPI · Vertex AI (Gemini) · Pinecone · Google Cloud**
 
----
+A privacy-preserving AI platform for automated legal document analysis — clause extraction, risk scoring, and interactive Q&A with zero-retention architecture.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,4,19,24" width="100%">
+### BillMaster
+[![Live](https://img.shields.io/badge/Live-FFA116?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bill-master-opal.vercel.app/)
 
-## Achievements
+**Node.js · Express · MongoDB · React · Redux Toolkit · TailwindCSS**
 
-- 🏆 Semi-finalist — **Google GenAI Hackathon 2025**
-- 🏆Top 44 (by Accuracy) — **Bajaj HackRx 6.0** with Team VectorVanguard
+Full-stack billing & estimation platform for electricians. Modular MVC backend with REST APIs; responsive UI with live editing and synchronized bill state.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,4,19,24" width="100%">
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
-## GitHub Statistics
+<img src="./assets/divider.svg" width="100%">
+
+<!-- Achievements -->
+<img src="./assets/achievements.svg">
+
+| | |
+|---|---|
+| Semi-finalist | **Google GenAI Hackathon 2025** |
+| Top 44 (by Accuracy) | **Bajaj HackRx 6.0** — Team VectorVanguard |
+
+<img src="./assets/divider.svg" width="100%">
+
+<!-- Stats -->
+<img src="./assets/stats.svg">
 
 <div align="center">
 
@@ -116,9 +142,10 @@ interests: [Backend Development, Generative AI]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,4,19,24" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## LeetCode
+<!-- LeetCode -->
+<img src="./assets/leetcode.svg">
 
 <div align="center">
 
@@ -126,9 +153,10 @@ interests: [Backend Development, Generative AI]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,4,19,24" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## Contributions
+<!-- Contributions -->
+<img src="./assets/contributions.svg">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityaa2404/adityaa2404/output/pacman-contribution-graph-dark.svg">
@@ -136,7 +164,7 @@ interests: [Backend Development, Generative AI]
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityaa2404/adityaa2404/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,4,19,24" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
 <div align="center">
 
@@ -144,5 +172,4 @@ interests: [Backend Development, Generative AI]
 
 </div>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,19,24&height=180&section=header&text=thanks%20for%20visiting&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,19,24&height=120&section=footer"/>
