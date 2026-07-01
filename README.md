@@ -107,7 +107,7 @@ A privacy-preserving AI platform for automated legal document analysis — claus
 
 **Node.js · Express · MongoDB · React · Redux Toolkit · TailwindCSS**
 
-Full-stack billing & estimation platform for electricians. Modular MVC backend with REST APIs; responsive UI with live editing and synchronized bill state.
+BillMaster is a full-stack billing and invoice management application for electrical contractors. It helps manage customers, organize jobs, track itemized work with customer-specific pricing, and generate professional PDF invoices through a modern React, Express, MongoDB, and Python-based architecture.
 
 </td>
 <td width="50%"></td>
